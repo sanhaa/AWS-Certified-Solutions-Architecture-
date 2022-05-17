@@ -1,6 +1,16 @@
-2022-02 ~ 
-- SAA-C02 자격증 취득하면서 공부했던 개인 기록
+2022.02 ~ 
+- SAA-C02 자격증 취득하면서 공부했던 개인 notion 기록 옮기는 중 [->원본 노션 링크](https://west-candle-277.notion.site/AWS-Certified-Solutions-Architectuect-a7700f7aaec7408fac12fc37cb0a0037)
 - 부정확한 내용 수정 예정 (2022.05 ~)
+
+
+### 페이지 옮기기
+- [x] AWS Services
+- [ ] AWS Exam Readiness (영역 별 내용 정리에 합치는 거 고려)
+- [ ] 영역 1 내용 정리
+- [ ] 영역 2 내용 정리
+- [ ] 영역 3 내용 정리
+- [ ] 영역 4 내용 정리
+- [ ] Udemy 모의고사 오답 노트
 
 # AWS Certified Solutions Architecture
 
@@ -21,7 +31,7 @@ spot, spot-fleet
 
 [AWS Exam Readiness (워크샵)](https://www.notion.so/AWS-Exam-Readiness-a09865a48f334229b6a235c081a23f6e)
 
-[AWS Service](https://www.notion.so/AWS-Service-d9b871590f6248af933993c833db31e1)
+[AWS Service](https://github.com/sanhaa/AWSCertifiedSolutionsArchitecture-Study/blob/dc477605552a79e0d1fd3bf566f2718df0ce262e/AWS_services.md)
 
 ### 영역 별 정리
 
