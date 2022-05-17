@@ -1,5 +1,6 @@
-# AWS-Certified-Solutions-Architecture-
-SAA-C02 자격증 취득하면서 공부했던 개인 기록
+2022-02 ~ 
+- SAA-C02 자격증 취득하면서 공부했던 개인 기록
+- 부정확한 내용 수정 예정 (2022.05 ~)
 
 # AWS Certified Solutions Architecture
 
